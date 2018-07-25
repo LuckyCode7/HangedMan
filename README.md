@@ -12,7 +12,7 @@ Functionalities:
 - words and tips are retrieved from the local database
 - achieved level and time are saved to the local database (you can check them whenever you want)
 - you can add your favorite music to the game
-What you have to do:
+<br>What you have to do:
 1. add music (only .wav files) to the folder "dzwiek"
 2. make changes in formatka.cpp:<br>
 2.1. muzyka("../dzwiek/(hier type the name of your file).wav");
