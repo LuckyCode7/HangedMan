@@ -1,3 +1,5 @@
+ ![wis](https://user-images.githubusercontent.com/40712810/43992983-0b62d5bc-9d87-11e8-869c-dbbf4d79095d.PNG)
+
 Project name: Wisielec
 
 Project type: GUI application
@@ -24,3 +26,4 @@ where "st" means the title of the song you added in point 1.
  - implemented game guide
  - multiple game
  - game restart
+ 
